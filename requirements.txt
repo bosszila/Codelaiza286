@@ -1,14 +1,13 @@
 --------Web-Application--------
-<<<<<<<<เว็ปให้ข้อมูลเกี่ยวกับICO or เว็ปขายเสื้อผ้า>>>>>>>>>
 -------Function-Requirement-------
-1.Search หาข้อมูลได้
-2.สามารถแชร์ลงไปใน Social networkได้
-3.มีตะกร้าในการใส่สินค้า
-4.สามารถเปลี่ยนภาษาได้
-5.login and logout
-6.จ่ายเงินผ่านบัตรเครดิต และ blupay
-*************7.สามารถตกแต่งรูปprofile ของตัวเองได้
+1.login and logout
+2.บันทึกได้
+3.มีการแจ้งเตือนเมื่อใกล้ถึงเวลาที่กำหนด
+4.สามารถ Search ได้
+5.แก้ไขข้อมูลได้
+6.ลบข้อมูลได้
+*************7.สามารถฟังเพลงใน WebApplication ได้
 -------NonFunctional-Requirement-------
-1.ระบบควรตอบสนองกับ User ภายในไม่เกิน2วินาทีในการ submit และ request (Usability Requirement)
-2.ระบบจะไม่เปิดเผยข้อมูลของUserและไม่มีใครสามารถเห็น username,password,credit number ของUserได้(Privacy Requirement)
+1.ระบบควรตอบสนองกับ User ภายในไม่เกิน2วินาทีในการ submit และ request (Efficiency Requirement)
+2.ระบบจะสามารถบันทึกข้อมูล ได้ภายใน 3 คลิ๊ก(Usablilty Requirement)
 3.ระบบจะต้องไม่ล่ม eg.Error500 (reliability Requirement)
