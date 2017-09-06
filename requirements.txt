@@ -6,9 +6,9 @@
 3.มีตะกร้าในการใส่สินค้า
 4.สามารถเปลี่ยนภาษาได้
 5.login and logout
-6.*********จ่ายเงินผ่านบัตรเครดิต และ blupay***********
-7.มีTag name ในการหาข้อมูลได้ง่ายขึ้น
+6.จ่ายเงินผ่านบัตรเครดิต และ blupay
+*************7.สามารถตกแต่งรูปprofile ของตัวเองได้
 -------NonFunctional-Requirement-------
 1.ระบบควรตอบสนองกับ User ภายในไม่เกิน2วินาทีในการ submit และ request (Usability Requirement)
 2.ระบบจะไม่เปิดเผยข้อมูลของUserและไม่มีใครสามารถเห็น username,password,credit number ของUserได้(Privacy Requirement)
-3.ระบบสามารถให้User เปลี่ยนข้อมูลได้ (Usability)
+3.ระบบจะต้องไม่ล่ม eg.Error500 (reliability Requirement)
